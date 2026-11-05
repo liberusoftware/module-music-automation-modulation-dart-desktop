@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-automation-modulation-dart-desktop",
+  "capabilityKey": "liberusoftware/music-automation-modulation",
+  "presentation": "dart-desktop",
+  "package": "module_music_automation_modulation_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/music/nextjs/automation-modulation.md",
+  "presentationPlan": "projects/music/features/automation-modulation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
